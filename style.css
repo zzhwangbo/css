@@ -1,0 +1,27 @@
+ * {
+        background-color : lightgreen;
+    }
+ img {
+        width: 100px;
+        border : 5px solid blue;
+        margin-left : 80px;
+    }
+#label_id {
+        color : blue;
+        background-color : yellow
+        
+    }
+ .userid {
+         border : 5px solid blue;
+     }
+ .con {
+         border : 5px solid blue;
+         background-color : yellow;
+         width : 200px;
+         height :150px;
+         font-style : italic
+ }
+ #label_1 {
+         magin-top : 10000px;
+         background-color : yellow;  
+ }
